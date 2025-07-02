@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    margin: 30px;
+    background: #ffdeed;
+    background: radial-gradient(circle, rgb(62, 104, 78) 0%, rgb(88, 67, 136) 100%);
+
+}
+
+#resultado {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    gap: 30px;
+    margin: auto;
+}
