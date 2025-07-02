@@ -1,10 +1,9 @@
-# Rick y Morty API
+# 🪐 Rick y Morty API
 
-Este proyecto es una interfaz web que consume la API pública de Rick y Morty para mostrar información sobre personajes, episodios y ubicaciones de la serie.
+Este proyecto es una interfaz web que consume la API pública de Rick y Morty para mostrar información sobre los personajes de la serie.
 
 ## Características
 
-- Navegación entre personajes, episodios y ubicaciones.
 - Selector de páginas para explorar diferentes personajes.
 - Interfaz moderna usando Bootstrap 5.
 
